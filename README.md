@@ -4,20 +4,9 @@
 ## What can I do
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Online Betting Website and Mobile app
-<br />
-
-### Crypto Currency
-<br />
-
-### AR & VR Web and Mobile application
-<br />
-
-### Video Conference Web and Mobile application
-<br />
-
+<p> I love  inspiring others, and being inspired. </p>
 </div>
 
 

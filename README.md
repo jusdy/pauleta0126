@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ted Ibarra</h1>
 <h3 align="center">A passionate full-stack engineer from Canada</h3>
 
-<div style="
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-<h4> I love  inspiring others, and being inspired. </h4>
-</div>
-
-
-
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>

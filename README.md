@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ted Ibarra</h1>
 <h3 align="center">A passionate full-stack engineer from Canada</h3>
 
-<p align="center" >
-<img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/>
-</p>
+## What can I do
 
-<p align="center">
- 💎 💎 💎 </br>
- Hard working, Love inspring each other.<br>
- Let's go beyond our limits<br>
-</p>
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+### Online Betting Website and Mobile app
+<br />
+
+### Crypto Currency
+<br />
+
+### AR & VR Web and Mobile application
+<br />
+
+### Video Conference Web and Mobile application
+<br />
+
+</div>
+
 
 
 <h3 align="left">GitHub Stats</h3>

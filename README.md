@@ -18,8 +18,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WebStarDev)  
 
-![Profile views](https://gpvc.arturio.dev/WebStarDev)  
-
 <table style="border-size:0px">
   <tr >
   <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="90"> Rails </td>    

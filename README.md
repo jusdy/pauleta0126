@@ -31,7 +31,7 @@
 </table>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=WebStarDev&column=8&theme=gruvbox&no-frame=true"/>
+  <img width="100vw" src="https://github-profile-trophy.vercel.app/?username=WebStarDev&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 <div>

@@ -25,5 +25,5 @@
 </table>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ted Ibarra&show_icons=true&count_private=true&theme=prussian&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WebStarDev&show_icons=true&count_private=true&theme=prussian&line_height=32">
 </p>

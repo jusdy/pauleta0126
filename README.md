@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ted Ibarra</h1>
 <h3 align="center">A passionate Full-Stack Engineer from Canada</h3>
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
+<p align="center" >
+<img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/>
+</p>
 
 <p align="center">
  💎 💎 💎 </br>
@@ -27,8 +29,9 @@
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>                        
    </tr>
 </table>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=WebStarDev&column=8&theme=gruvbox&no-frame=true"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=WebStarDev&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 <div>

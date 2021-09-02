@@ -10,13 +10,9 @@
  Let's go beyond our limits<br>
 </p>
 
-<p align="left">
- My Github Stat's
-</p>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WebStarDev)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WebStarDev)  
+<h3 align="left">
+ My Skills and Tools
+</h3>
 
 <table style="border-size:0px">
   <tr >
@@ -33,4 +29,12 @@
 </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebStarDev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+<h3 align="left">
+ My Github Stat's
+</h3>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=WebStarDev)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WebStarDev)  
 

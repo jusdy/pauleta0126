@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ted Ibarra</h1>
 <h3 align="center">A passionate full-stack engineer from Canada</h3>
 
-<p align="center" >
-<img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/>
-</p>
-
-<p align="center">
- 💎 💎 💎 </br>
- Hard working, Love inspring each other.<br>
- Let's go beyond our limits<br>
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Kotlin, Flutter**
@@ -29,7 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webstardev&show_icons=true&locale=en" alt="webstardev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webstardev&" alt="webstardev" /></p>
-
-
-
-

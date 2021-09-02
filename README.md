@@ -10,9 +10,11 @@
  Let's go beyond our limits<br>
 </p>
 
+<p align="left">
+ My Github Stat's
+</p>
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WebStarDev)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebStarDev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WebStarDev)  
 
@@ -32,6 +34,5 @@
    </tr>
 </table>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WebStarDev&show_icons=true&count_private=true&theme=prussian&line_height=32">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebStarDev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+

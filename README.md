@@ -28,10 +28,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=WebStarDev&show_icons=true&count_private=true&theme=prussian&line_height=32">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasheemismath)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WebStarDev)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheemismath&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebStarDev&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasheemismath)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WebStarDev)  
 
-![Profile views](https://gpvc.arturio.dev/hasheemismath)  
+![Profile views](https://gpvc.arturio.dev/WebStarDev)  

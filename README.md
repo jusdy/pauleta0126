@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted Ibarra</h1>
-<h3 align="center">A passionate full-stack engineer from Canada</h3>
+<h3 align="center">A passionate Blockchain & Web Developer from Canada</h3>
 
 <h3 align="left">GitHub Stats</h3>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Benson</h1>
+<h1 align="center">Hi 👋, I'm Peter Willson</h1>
 <h3 align="center">A passionate Blockchain & Web Developer from Canada</h3>
 
 <h3 align="left">GitHub Stats</h3>

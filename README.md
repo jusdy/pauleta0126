@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Peter Willson</h1>
-<h3 align="center">A passionate Blockchain & Web Developer from Canada</h3>
-
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
